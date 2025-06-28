@@ -31,6 +31,8 @@ Kegiatan PKM yang dihadiri oleh berbagai pihak, termasuk kepala sekolah SMK Ilha
 
 Dalam sambutannya, Kepala Sekolah SMK Ilhami Kemiri menyampaikan rasa syukur dan apresiasi atas terselenggaranya kegiatan ini. Beliau menegaskan pentingnya transformasi pendidikan dengan memanfaatkan teknologi, dan mendukung penuh kegiatan yang memberikan nilai tambah bagi para guru. Sambutan kedua disampaikan oleh Dr. Murinto, S.Si, M.Kom selaku perwakilan dosen Universitas Ahmad Dahlan. Dalam sambutannya, beliau menekankan urgensi pengintegrasian AI dalam sistem pendidikan dan pentingnya perlindungan data di era digital.
 
+![](/img/9d3328ab-6a36-4b35-9649-63e97ba5e668.jpg)
+
 ### Sesi I: Pemanfaatan AI untuk Kurikulum Up-to-Date
 
 Sesi pertama diisi oleh Muhammad Syukri, S.T, M.TI, yang membawakan materi tentang penerapan kecerdasan buatan dalam penyusunan kurikulum berbasis kompetensi dan kebutuhan industri. Dalam paparannya, beliau menjelaskan bagaimana AI dapat digunakan untuk:
