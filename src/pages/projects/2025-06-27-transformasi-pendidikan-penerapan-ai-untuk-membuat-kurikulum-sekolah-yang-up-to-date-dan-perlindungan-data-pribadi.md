@@ -29,6 +29,8 @@ Kegiatan ini diselenggarakan pada tanggal 21 Juni 2025 bertempat di SMK Ilhami K
 
 Kegiatan PKM yang dihadiri oleh berbagai pihak, termasuk kepala sekolah SMK Ilhami Kemiri, dosen pembimbing, serta para narasumber. Acara dibuka oleh MC yang merupakan perwakilan dari  guru SMK Ilhami Kemiri Tangerang.
 
+![](/img/whatsapp-image-2025-06-21-at-15.57.49-1-.jpeg)
+
 Dalam sambutannya, Kepala Sekolah SMK Ilhami Kemiri menyampaikan rasa syukur dan apresiasi atas terselenggaranya kegiatan ini. Beliau menegaskan pentingnya transformasi pendidikan dengan memanfaatkan teknologi, dan mendukung penuh kegiatan yang memberikan nilai tambah bagi para guru. Sambutan kedua disampaikan oleh Dr. Murinto, S.Si, M.Kom selaku perwakilan dosen Universitas Ahmad Dahlan. Dalam sambutannya, beliau menekankan urgensi pengintegrasian AI dalam sistem pendidikan dan pentingnya perlindungan data di era digital.
 
 ![](/img/9d3328ab-6a36-4b35-9649-63e97ba5e668.jpg)
@@ -73,5 +75,7 @@ Di akhir kegiatan, para guru menyampaikan testimoni mereka. Banyak dari mereka m
 ### Penutup
 
 Kegiatan PKM ini menjadi bukti nyata kontribusi mahasiswa program doktoral terhadap masyarakat, khususnya dalam bidang pendidikan. Kolaborasi yang terjalin antara Universitas Ahmad Dahlan, SMK Ilhami Kemiri, serta para guru menjadi langkah strategis dalam mentransformasikan pendidikan di era digital
+
+![](/img/whatsapp-image-2025-06-21-at-15.57.54.jpeg)
 
 Dengan semangat transformasi dan kolaborasi, pendidikan Indonesia diharapkan mampu menghadapi tantangan zaman dan melindungi generasi masa depan dari risiko dunia digital. Kegiatan ini menjadi awal dari upaya berkelanjutan untuk mewujudkan sistem pendidikan yang cerdas, aman, dan relevan.
